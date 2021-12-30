@@ -4,7 +4,7 @@
 
 # Usage 🧰
 
-* You need to install requirements first - `pip install -r requirements.txt`
+* You need to install requirements first - `pip install -r requirements.txt` or 'pip install --upgrade telethon'
 * Then you need to store your accounts using `manager.py`
 * Then, scrape and add members using `add.py`
 
